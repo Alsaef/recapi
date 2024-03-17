@@ -1,0 +1,56 @@
+[
+    {
+        "recipe_image": "https://www.countdown.co.nz/Content/Recipes/230232-Classic-SpagBol_810x520.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Bolognese",
+        "short_des": "Classic Italian pasta dish with savor meat sauce",
+        "ingredients": ["2 pounds ground beef.","2 pounds ground pork.","2 cups dry white wine.","6 ounces bacon or pancetta.","1/3 cup garlic cloves (about 6 fat cloves)","2 tablespoons extra-virgin olive oil.","2 medium onions, minced in a food processor or finely chopped.","2 large celery stalks, minced in a food processor or finely chopped."],
+        "prepare_time": "25 Minutes",
+        "Calories": "550 Calories"
+    },
+    {
+        "recipe_image": "https://cdn.sanity.io/images/2r0kdewr/production/0bc6f529c1200c84a8465d9317c3029898a4d4fa-1500x844.jpg",
+        "recipe_id": 2,
+        "recipe_name": "Sour pork",
+        "short_des": "A Chinese stir-fry dish made with juicy pieces of pork tenderloin, bell peppers, onion, and pineapple.",
+        "ingredients": ["cider vinegar for sourness","brown sugar for sweetness","tomato for color","and cayenne for heat"],
+        "prepare_time": "20 Minutes",
+        "Calories": "150 Calories"
+    },
+    {
+        "recipe_image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-01-Spring-Rolls%2FVegetarian_Spring_Rolls-2",
+        "recipe_id": 3,
+        "recipe_name": "Sprint Roll",
+        "short_des": "In Chinese cuisine, spring rolls are savoury rolls with cabbage and other vegetable fillings inside a thinly wrapped cylindrical pastry.",
+        "ingredients": ["Meat: minced pork, crab, shrimp.","Egg: chicken or duck eggs.","Glass noodles and rice paper.","Spices such as onions, scallions, salt, garlic, wood ear, shiitake mushroom.","Vegetables: about 2-3 kinds of vegetables such as carrot, kohlrabi, taro, sweet potatoes, tofu, jicama, bean sprouts."],
+        "prepare_time": "20 Minutes",
+        "Calories": "250 Calories"
+    },
+    {
+        "recipe_image": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Kung-Pao-Chicken-IMAGE-4.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Kung Pao Chicken",
+        "short_des": "Kung pao chicken is a popular Chinese restaurant dish of stir-fried chicken, peanuts and vegetables.",
+        "ingredients": ["stir-fried chicken","peanuts","vegetables"],
+        "prepare_time": "30 Minutes",
+        "Calories": "180 Calories"
+    },
+    {
+        "recipe_image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2F2023-05-mapo-tofu%2Fmapo-tofu-017",
+        "recipe_id": 5,
+        "recipe_name": "Mapo Tofu",
+        "short_des": "Mapo tofu is a popular Chinese dish from Sichuan province known for its fiery bright red sauce",
+        "ingredients": ["fermented bean paste","beef","plenty of red-hot roasted chili oil","handful of Sichuan peppercorns"],
+        "prepare_time": "30 Minutes",
+        "Calories": "450 Calories"
+    },
+    {
+        "recipe_image": "https://www.skinnytaste.com/wp-content/uploads/2020/01/Wonton-Soup-7.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Wonton Soup",
+        "short_des": "Wonton soup is a bouillon-like soup containing cooked, delicate wontons: dumplings filled with pork and/or shrimp mixed with some vegetables, soy sauce and sesame oil.",
+        "ingredients": ["ground pork or chicken","shrimp with a small amount of flour added as a binder"],
+        "prepare_time": "15 Minutes",
+        "Calories": "140 Calories"
+    }
+]
